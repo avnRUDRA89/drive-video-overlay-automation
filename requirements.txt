@@ -1,0 +1,8 @@
+google-api-python-client>=2.70.0
+google-auth>=2.16.0
+ffmpeg-python>=0.2.0
+google-auth-oauthlib>=0.7.0
+google-auth-httplib2>=0.1.0
+imageio-ffmpeg>=0.4.8
+protobuf>=4.25.3,<5
+mediapipe==0.10.21
